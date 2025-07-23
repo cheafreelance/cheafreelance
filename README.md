@@ -1,16 +1,32 @@
-## Hi there 👋
+# 📂 Freelance Portfolio by Macintosh Chea
 
-<!--
-**cheafreelance/cheafreelance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my collection of open-source projects, code snippets, and templates developed as a freelance software developer.
 
-Here are some ideas to get you started:
+This repository contains practical, reusable code for Android development, websites, APIs, and other client-ready solutions — all licensed under the **Apache License 2.0**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+---
+
+## 🔧 What's Included
+
+- 📱 Android app templates (Kotlin/Java)
+- 💼 Business website layouts
+- ⚙️ API integration samples
+- 📄 License-ready starter code
+- 🚀 Code snippets for GitHub Projects
+
+---
+
+## 📜 License
+
+This repository is licensed under the **Apache License 2.0**.  
+You are free to use, modify, and distribute the code with attribution.
+
+See the `LICENSE` file for full details.
+
+---
+
+## 👋 About Me
+
+I'm **Macintosh Chea**, a freelance developer passionate about clean, scalable, and open software.
+
+Need help with your project? [Get in touch](mailto:youremail@example.com)
