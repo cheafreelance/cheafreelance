@@ -34,5 +34,4 @@ You are free to use, modify, and distribute the code with proper attribution.
 I'm **Macintosh Chea**, a freelance developer passionate about clean, scalable, and open software.
 
 Need help with your project? [Get in touch] chea.freelance@gmail.com)
-## 📸 Screenshots
-rk7lv5.jpg file.
+## 📸 Screenshots-rk7lv5.jpg
