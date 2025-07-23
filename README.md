@@ -21,7 +21,7 @@ This repository contains practical, reusable code for Android development, websi
 This repository is licensed under the **Apache License 2.0**.  
 You are free to use, modify, and distribute the code with attribution.
 
-See the `LICENSE` file for full details.
+See the http://www.apache.org/licenses/LICENSE-2.0` file for full details.
 
 ---
 
