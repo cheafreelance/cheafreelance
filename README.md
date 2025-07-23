@@ -35,4 +35,4 @@ I'm **Macintosh Chea**, a freelance developer passionate about clean, scalable, 
 
 Need help with your project? [Get in touch] chea.freelance@gmail.com)
 ## 📸 Screenshots
-uploaded -rk7lv5.jpg file.
+rk7lv5.jpg file.
