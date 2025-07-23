@@ -30,3 +30,7 @@ See the http://www.apache.org/licenses/LICENSE-2.0` file for full details.
 I'm **Macintosh Chea**, a freelance developer passionate about clean, scalable, and open software.
 
 Need help with your project? [Get in touch] chea.freelance@gmail.com)
+## 📸 Screenshots
+
+![Home](screenshots/home.png)
+![Product](screenshots/product.png)
